@@ -5,8 +5,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I study English at 9.
+- The movie lunches on October 23.
 
 ## ✅ 2. 현재 진행 (Present Continuous)
 
@@ -15,8 +15,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I'm drinking tea.
+- I'm washing my car.
 
 ## ✅ 3. 현재 완료 (Present Perfect)
 
@@ -25,8 +25,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I have been to Japan.
+- I have finished my daliy routine.
 
 ## ✅ 4. 현재 완료 진행 (Present Perfect Continuous)
 
@@ -35,8 +35,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I have been learning English since March
+- I have been reading book for 3 hours.
 
 ## ✅ 5. 과거 단순 (Past Simple)
 
@@ -45,8 +45,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I ate pizza for dinner yesterday.
+- I went to the bookstore
 
 ## ✅ 6. 과거 진행 (Past Continuous)
 
@@ -55,8 +55,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I was eating while you were calling.
+- she was reading when he called.
 
 ## ✅ 7. 과거 완료 (Past Perfect)
 
@@ -65,8 +65,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I had already eaten before she arrived.
+- He had already broken before mome arrived.
 
 ## ✅ 8. 과거 완료 진행 (Past Perfect Continuous)
 
@@ -75,8 +75,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- He had been making a test all day before the test.
+- They had been playing football at 7 before they left.
 
 ## ✅ 9. 미래 단순 (Future Simple)
 
@@ -85,8 +85,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I will listen to music in bed.
+- He wiil go to drunk.
 
 ## ✅ 10. 미래 진행 (Future Continuous)
 
@@ -95,8 +95,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I will be staying home at 10.
+- She wiil be going to the gym at 8 pm.
 
 ## ✅ 11. 미래 완료 (Future Perfect)
 
@@ -105,8 +105,8 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I will have eaten this food in 2 hour.
+- He will have launched this project by two day.
 
 ## ✅ 12. 미래 완료 진행 (Future Perfect Continuous)
 
@@ -115,5 +115,5 @@
 
 **🗣️ 나의 문장:**
 
--
--
+- I will have been learning coding for a year by December.
+- He will have been working for a month by November.

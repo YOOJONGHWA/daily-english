@@ -36,7 +36,7 @@
 
 - [✅ Day 1 - Even bad code can function.](logs/day1.md)
 - [✅ Day 2 - But if code isn't clean, it can bring a development organization to its knees.](logs/day2.md)
-- [✅ Day 2 - There is two reasons why code might not be clean.](logs/day3.md)
+- [✅ Day 3 - There is two reasons why code might not be clean.](logs/day3.md)
 
 ## 🔍 시제 훈련 로그
 
