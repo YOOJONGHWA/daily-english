@@ -37,7 +37,16 @@
 - [✅ Day 1 - Even bad code can function.](logs/day1.md)
 - [✅ Day 2 - But if code isn't clean, it can bring a development organization to its knees.](logs/day2.md)
 - [✅ Day 3 - There is two reasons why code might not be clean.](logs/day3.md)
+- [✅ Day 4 - We are under time pressure to deliver.](logs/day4.md)
+- [✅ Day 5 - We make the mess, and then we clean it up under pressure.](logs/day5.md)
 
 ## 🔍 시제 훈련 로그
 
-- [✅ Day 1](logs/day1.md)
+- [✅ Day 1](daily/day1.md)
+- [✅ Day 2](daily/day2.md)
+- [✅ Day 3](daily/day3.md)
+
+## 🔍 단어 훈련 로그
+
+- [✅ Day 1](word/day1.md)
+- [✅ Day 2](word/day2.md)
