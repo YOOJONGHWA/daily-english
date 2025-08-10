@@ -40,6 +40,7 @@
 - [✅ Day 4 - We are under time pressure to deliver.](logs/day4.md)
 - [✅ Day 5 - We make the mess, and then we clean it up under pressure.](logs/day5.md)
 - [✅ Day 6 - Functions should do ont thing. They should do it well. The should do it only.](logs/day6.md)
+- [✅ Day 7 - If a method does more then one thing, it should be split into separte methods.](logs/day7.md)
 
 ## 🔍 시제 훈련 로그
 
@@ -53,3 +54,4 @@
 - [✅ Day 1](word/day1.md)
 - [✅ Day 2](word/day2.md)
 - [✅ Day 3](word/day3.md)
+- [✅ Day 4](word/day4.md)
