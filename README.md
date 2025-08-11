@@ -55,3 +55,4 @@
 - [✅ Day 2](word/day2.md)
 - [✅ Day 3](word/day3.md)
 - [✅ Day 4](word/day4.md)
+- [✅ Day 5](word/day5.md)
