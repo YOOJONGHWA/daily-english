@@ -41,6 +41,7 @@
 - [✅ Day 5 - We make the mess, and then we clean it up under pressure.](logs/day5.md)
 - [✅ Day 6 - Functions should do ont thing. They should do it well. The should do it only.](logs/day6.md)
 - [✅ Day 7 - If a method does more then one thing, it should be split into separte methods.](logs/day7.md)
+- [✅ Day 8 - This keeps each method focused and easier to understand](logs/day8.md)
 
 ## 🔍 시제 훈련 로그
 
