@@ -42,6 +42,7 @@
 - [✅ Day 6 - Functions should do ont thing. They should do it well. The should do it only.](logs/day6.md)
 - [✅ Day 7 - If a method does more then one thing, it should be split into separte methods.](logs/day7.md)
 - [✅ Day 8 - This keeps each method focused and easier to understand](logs/day8.md)
+- [✅ Day 9 - A good name expresses the purpose of the vairable, function, or class](logs/day9.md)
 
 ## 🔍 시제 훈련 로그
 
@@ -57,3 +58,4 @@
 - [✅ Day 3](word/day3.md)
 - [✅ Day 4](word/day4.md)
 - [✅ Day 5](word/day5.md)
+- [✅ Day 6](word/day6.md)
