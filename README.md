@@ -61,3 +61,4 @@
 - [✅ Day 5](word/day5.md)
 - [✅ Day 6](word/day6.md)
 - [✅ Day 7](word/day7.md)
+- [✅ Day 8](word/day8.md)
