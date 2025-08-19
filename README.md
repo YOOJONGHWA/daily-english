@@ -44,6 +44,7 @@
 - [✅ Day 8 - This keeps each method focused and easier to understand](logs/day8.md)
 - [✅ Day 9 - A good name expresses the purpose of the vairable, function, or class](logs/day9.md)
 - [✅ Day 10 - Names should be descriptive and unambiguous](logs/day10.md)
+- [✅ Day 11 - Avoid names that are misleading or too clever](logs/day11.md)
 
 ## 🔍 시제 훈련 로그
 
