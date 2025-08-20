@@ -46,13 +46,7 @@
 - [✅ Day 10 - Names should be descriptive and unambiguous](logs/day10.md)
 - [✅ Day 11 - Avoid names that are misleading or too clever](logs/day11.md)
 - [✅ Day 12 - Prefer names that reveal intent.](logs/day12.md)
-
-## 🔍 시제 훈련 로그
-
-- [✅ Day 1](daily/day1.md)
-- [✅ Day 2](daily/day2.md)
-- [✅ Day 3](daily/day3.md)
-- [✅ Day 4](daily/day4.md)
+- [✅ Day 13 - The name of a variable, function, or class should answer all the big questions.](logs/day12.md)
 
 ## 🔍 단어 훈련 로그
 

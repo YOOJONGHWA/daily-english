@@ -14,7 +14,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I am studying English.
 
 ## ✅ 3. 현재 완료 (Present Perfect)
 
@@ -23,7 +23,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I hava finished clean my house.
 
 ## ✅ 4. 현재 완료 진행 (Present Perfect Continuous)
 
@@ -32,7 +32,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I have neen learning Ai since April.
 
 ## ✅ 5. 과거 단순 (Past Simple)
 
@@ -41,7 +41,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I cleaned my room yesterday.
 
 ## ✅ 6. 과거 진행 (Past Continuous)
 
@@ -50,7 +50,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I was talk on the phone when my cat called.
 
 ## ✅ 7. 과거 완료 (Past Perfect)
 
@@ -59,7 +59,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I had already order befroe they arrived.
 
 ## ✅ 8. 과거 완료 진행 (Past Perfect Continuous)
 
@@ -68,7 +68,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I had been talking all day before the travel.
 
 ## ✅ 9. 미래 단순 (Future Simple)
 
@@ -77,7 +77,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I will go to see a doctoer tomorrow.
 
 ## ✅ 10. 미래 진행 (Future Continuous)
 
@@ -86,7 +86,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I will be sleeping at 3 am.
 
 ## ✅ 11. 미래 완료 (Future Perfect)
 
@@ -95,7 +95,7 @@
 
 **🗣️ 나의 문장:**
 
--
+- I will have cleaned my room by next monring
 
 ## ✅ 12. 미래 완료 진행 (Future Perfect Continuous)
 
@@ -104,4 +104,4 @@
 
 **🗣️ 나의 문장:**
 
--
+- I will have neen learning Coding for a year by December.
