@@ -48,6 +48,7 @@
 - [✅ Day 12 - Prefer names that reveal intent.](logs/day12.md)
 - [✅ Day 13 - The name of a variable, function, or class should answer all the big questions.](logs/day13.md)
 - [✅ Day 14 - It should tell you why it exists, what it does, and how it is used.](logs/day14.md)
+- [✅ Day 15 - If a name rqures a comment, then the name does not reveal its intent.](logs/day15.md)
 
 ## 🔍 단어 훈련 로그
 
