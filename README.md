@@ -50,6 +50,7 @@
 - [✅ Day 14 - It should tell you why it exists, what it does, and how it is used.](logs/day14.md)
 - [✅ Day 15 - If a name rqures a comment, then the name does not reveal its intent.](logs/day15.md)
 - [✅ Day 16 - The clearer the names are, the lss you need comments.](logs/day16.md)
+- [✅ Day 17 - Choosing good names takes time but saves more time in the long run.](logs/day16.md)
 
 ## 🔍 단어 훈련 로그
 
