@@ -52,6 +52,7 @@
 - [✅ Day 16 - The clearer the names are, the lss you need comments.](logs/day16.md)
 - [✅ Day 17 - Choosing good names takes time but saves more time in the long run.](logs/day17.md)
 - [✅ Day 18 - Names should descrive side effects as well as the main purpose.](logs/day18.md)
+- [✅ Day 19 - Bad names introduce confusion and slow down development.](logs/day19.md)
 
 ## 🔍 단어 훈련 로그
 
