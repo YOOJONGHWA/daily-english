@@ -56,6 +56,7 @@
 - [✅ Day 20 - Goog names improve communication and make code easier to maintain.](logs/day20.md)
 - [✅ Day 21 - Avoid disinformation in names.](logs/day21.md)
 - [✅ Day 22 - Make meaningful distinctions.](logs/day22.md)
+- [✅ Day 22 - Use pronounceable names.](logs/day23.md)
 
 ## 🔍 단어 훈련 로그
 
