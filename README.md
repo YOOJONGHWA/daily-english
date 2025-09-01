@@ -58,6 +58,7 @@
 - [✅ Day 22 - Make meaningful distinctions.](logs/day22.md)
 - [✅ Day 23 - Use pronounceable names.](logs/day23.md)
 - [✅ Day 24 - Use searchable names.](logs/day24.md)
+- [✅ Day 25 - Avoid disinformation.](logs/day25.md)
 
 ## 🔍 단어 훈련 로그
 
